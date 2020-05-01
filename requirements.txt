@@ -1,0 +1,10 @@
+Flask
+gunicorn
+setuptools
+pymysql
+pybigquery
+loguru
+Flask-SQLAlchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+SQLAlchemy>=1.3.15
